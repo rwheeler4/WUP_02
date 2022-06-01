@@ -39,11 +39,19 @@ The variables used are categorical (Cultivation Method) and Numerical (Vitamin C
 
 ```{r}
 boxplot(VitC~Cult,data=veggy)
-```
+```  
+
+c39 yielded significantly less Vitamin C than c52 did. 
 
 ### Numerical Descriptive Results
 
-<!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
+<!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->  
+
+```{r}
+favstats(VitC~Cult,data=veggy)
+```
+
+The Vitamin C content data for c52 was greater than c39 in all categories: min, Q1. median, Q3, max, mean, and sd.  
 
 ## Inferential Results
 
