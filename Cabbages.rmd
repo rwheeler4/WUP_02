@@ -66,6 +66,6 @@ The p-value is 3.405e-08.
 
 # Discussion and Conclusion
 
-We must reject the null hypothesis because the P value, the probability of getting the sample result, is too minuscule to matter.
+The original question was: Is there a difference in average VitC between c39 and c52 cultivation methods? We must reject the null hypothesis because the P value, the probability of getting the sample result, is too minuscule to matter.
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
