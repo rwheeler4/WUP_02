@@ -20,6 +20,8 @@ veggy <- cabbages
  The cabbages data from the MASS package is loaded into a dataframe called veggy. Complete this report by answering the following two questions  
  
 ### Is there a difference in average VitC between c39 and c52 cultivation methods?  
+$H_O$: There is no difference in the vitamin C contents between c39 and c52.  
+$H_A$: There is a difference between the vitamin C contents in cultivation methods c39 and c52.  
 
 # Methods
 
