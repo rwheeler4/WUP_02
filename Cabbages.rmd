@@ -26,7 +26,8 @@ $H_A$: There is a difference between the vitamin C contents in cultivation metho
 # Methods
 
 <!--Decide on your methods:  use "variable analysis" or other appropriate descriptors.  Make sure to choose at least one graphical method and at least one numerical method.!-->
-The variables used are categorical (Cultivation Method) and Numerical (Vitamin C).  
+The variables used are categorical (Cultivation Method) and Numerical (Vitamin C).   
+
 # Results
 
 <!--Divide this section into two sub-sections:  One for your descriptive  results and one for your inferential results.!-->
